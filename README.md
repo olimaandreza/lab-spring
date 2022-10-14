@@ -1,3 +1,3 @@
-# Primeiros passos com Spring
+# Primeiro estudo com Spring
 
-Este repositório conta com os primeiros passos para desenvolvimento com Spring Framework.
+Este repositório conta com meus primeiros passos para desenvolvimento com Spring Framework, explorando conceitos de Padrões de Projeto.
